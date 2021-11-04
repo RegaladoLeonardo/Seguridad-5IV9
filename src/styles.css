@@ -1,0 +1,15 @@
+*{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#N, #IP, #BinarioIp, #mascarai, #clases{
+    background-color: transparent;
+}
+
+body, html{
+
+    background: url(./assets/seguridad.jpg);
+    background-repeat: no-repeat;
+    background-attachment:local;
+}
